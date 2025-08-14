@@ -1,7 +1,7 @@
 ### Joshua Miguel Tuan
 ### Lab: Exploring Cadet Training Module
 
-#### Project Structure / Main class
+#### Project Structure / Main
 ![](sc1.png)
 
 #### Capabilities Package / Interfaces
